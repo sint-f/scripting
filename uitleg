@@ -1,0 +1,18 @@
+eerst in het menu tussen 3 dingen laten kiezen (regels, spel, sluit spel)
+
+selecteerd regels (laat regels zien en wanneer een knop is ingedrukt terug naar menu)
+
+selecteerd spel
+{
+een input krijgen van hoe veel spelers
+>4 = niet handig
+geen cijfer = opnieuw vragen
+}
+{
+om de beurt elke speler 2 dobbelstenen gooien
+daarna de 2 dobbelstenen bij elkaar tellen van iedere speler
+daarna de tussenstand laten zien
+
+}
+
+selecteerd sluit spel (sluit spel)
